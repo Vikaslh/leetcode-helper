@@ -30,7 +30,7 @@ Built with **React + TypeScript + TailwindCSS + Vite + Manifest V3**.
 
 ### 1. Clone the Repo
 
-```bash
+
 git clone https://github.com/Vikaslh/leetcode-helper.git
 cd leetcode-helper
 npm install
