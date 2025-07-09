@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "LeetCode Hint react1",
+    "version": "1.0",
+    "description": "Fetch hints for LeetCode problems",
+    "permissions": ["activeTab", "storage","scripting"],
+    "action": {
+      "default_popup": "index.html"
+    },
+   
+    "icons": {
+        "32": "icon.png"
+    },
+    "host_permissions": [
+        "http://*/*",
+        "https://*/*"
+    ]
+
+    
+  }
+  
