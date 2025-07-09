@@ -1,6 +1,6 @@
-# 💬 LeetCode Gemini Chat Assistant Extension
+# 💬 LeetCode  Chat Assistant Extension
 
-A Chrome Extension that adds an AI-powered chat assistant to [LeetCode](https://leetcode.com/problems/*) to help you understand and solve coding problems using Google Gemini API.
+A Chrome Extension that adds an AI-powered chat assistant to [LeetCode](https://leetcode.com/problems/*) to help you understand and solve coding problems using Google Gemini API/OPEN AI.
 
 Built with **React + TypeScript + TailwindCSS + Vite + Manifest V3**.
 
